@@ -59,3 +59,6 @@ If they are not, follow the instructions to download all three.
     The Shiny app will run from these files.
 
 19. Run `app.R` to run the Shiny dashboard.
+
+## Sample:
+![dash](dashboard.png)
